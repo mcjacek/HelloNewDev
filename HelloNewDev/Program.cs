@@ -16,7 +16,6 @@ namespace HelloNewDev
         {
             var question = new FIXQuestion();
             question.Run();
-
         }
     }
 }
